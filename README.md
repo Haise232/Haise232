@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="assets/anime.png" alt="Anime" width="220" />
+      <img src="assets/MonteFuji.jpg" alt="Monte Fuji" width="220" />
     </td>
     <td>
       <h1>¡Hola! Soy Joaquín Suárez Ramírez 👋</h1>
