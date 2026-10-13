@@ -70,7 +70,7 @@
   <tr>
     <td width="120" align="center">
       <a href="https://github.com/Haise232/MiBalance">
-        <img src="https://raw.githubusercontent.com/Haise232/MiBalance/main/assets/logo/logo-mark.png" alt="MiBalance" width="96" />
+        <img src="assets/mibalance-logo.png" alt="MiBalance" width="96" />
       </a>
     </td>
     <td>
