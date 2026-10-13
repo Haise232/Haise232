@@ -64,11 +64,39 @@
   </tr>
 </table>
 
+### 🥈 Segundo proyecto: MiBalance
+
+<table>
+  <tr>
+    <td width="120" align="center">
+      <a href="https://github.com/Haise232/MiBalance">
+        <img src="https://raw.githubusercontent.com/Haise232/MiBalance/main/assets/logo/logo-mark.png" alt="MiBalance" width="96" />
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/Haise232/MiBalance">MiBalance</a> 💰</h3>
+      <p>App de <b>finanzas personales</b> multiplataforma (Android, iOS y web): ingresos, gastos, cuentas, categorías, deudas, suscripciones y reportes con gráficos. Tema claro/oscuro, recordatorios diarios, copias de seguridad en CSV/JSON y datos por usuario con Supabase.</p>
+      <p>
+        <a href="https://mibalanceapp.vercel.app"><img src="https://img.shields.io/badge/DEMO-mibalanceapp.vercel.app-1f8a5c?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" /></a>
+        <a href="https://github.com/Haise232/MiBalance"><img src="https://img.shields.io/badge/C%C3%93DIGO-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código" /></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 ### 🗂️ Todos los proyectos
 
 | Proyecto | Tecnologías | Descripción |
 |----------|-------------|-------------|
 | 👑 **[TopCode](https://github.com/Haise232/TopCode)** | React, TypeScript, Expo, Supabase | **Intranet académica web + app móvil** · [demo](https://topcode-chi.vercel.app) |
+| 🥈 **[MiBalance](https://github.com/Haise232/MiBalance)** | React Native, TypeScript, Expo, Supabase | **Finanzas personales Android, iOS y web** · [demo](https://mibalanceapp.vercel.app) |
 | [Calculadora-React](https://github.com/Haise232/Calculadora-React) | React, TypeScript | Calculadora web |
 | [rally-canarias](https://github.com/Haise232/rally-canarias) | HTML, CSS | Web sobre el Rally de Canarias |
 | [Pokemon](https://github.com/Haise232/Pokemon) | HTML, CSS | Proyecto web de Pokémon |
