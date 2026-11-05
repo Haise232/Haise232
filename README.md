@@ -25,6 +25,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -122,19 +123,39 @@
 
 ### 🗂️ Todos los proyectos
 
-| Proyecto | Tecnologías | Descripción |
-|----------|-------------|-------------|
-| 👑 **[TopCode](https://github.com/Haise232/TopCode)** | React, TypeScript, Expo, Supabase | **Intranet académica web + app móvil** · [demo](https://topcode-2na.pages.dev) |
-| 🥈 **[GcGames](https://github.com/Haise232/GcGames)** | React, Vite, Cloudflare Workers, Supabase | **Casino online con mesas en vivo, rondas comunes y juegos en solitario** · [jugar](https://play.gcgames.workers.dev) |
-| 🥉 **[MiBalance](https://github.com/Haise232/MiBalance)** | React Native, TypeScript, Expo, Supabase | **Finanzas personales Android, iOS y web** · [demo](https://mibalanceapp.vercel.app) |
-| [Calculadora-React](https://github.com/Haise232/Calculadora-React) | React, TypeScript | Calculadora web |
-| [rally-canarias](https://github.com/Haise232/rally-canarias) | HTML, CSS | Web sobre el Rally de Canarias |
-| [Pokemon](https://github.com/Haise232/Pokemon) | HTML, CSS | Proyecto web de Pokémon |
-| [Sistema de Biblioteca con MVC](https://github.com/Haise232/Act1.Ev-UT4.-Sistema-de-Biblioteca-con-MVC) | Java | Gestión de biblioteca con patrón MVC |
-| [Sistema de Personajes de Videojuego](https://github.com/Haise232/Act3.Ev-UT4.-Sistema-de-Personajes-de-Videojuego) | Java | Personajes con programación orientada a objetos |
-| [Gestor de Notas con Usuarios](https://github.com/Haise232/Act.Ev-UT5.2-Gestor-de-Notas-con-Usuarios) | Java | Gestor de notas con usuarios |
-| [Sistema de Notas por Usuario](https://github.com/Haise232/Act.Ev-UT5.1-Sistema-de-Notas-por-Usuario) | Java | Notas asociadas a cada usuario |
-| [Pedido de Restaurante](https://github.com/Haise232/Act.-4-Pedido-de-Restaurante) | Java | Gestión de pedidos de un restaurante |
+#### 🌐 Web y apps multiplataforma
+
+| Proyecto | Tecnologías | Qué es |
+|----------|-------------|--------|
+| 👑 **[TopCode](https://github.com/Haise232/TopCode)** | React, TypeScript, Expo, Supabase | Intranet académica para DAM, DAW y ASIR: actividades, calendario, apuntes, foro y chat en tiempo real. Web + app móvil · [demo](https://topcode-2na.pages.dev) |
+| 🥈 **[GcGames](https://github.com/Haise232/GcGames)** | React, Vite, Cloudflare Workers, Supabase | Casino online con dinero ficticio: mesas en vivo, rondas para todos a la vez, juegos en solitario, gacha y pase de temporada · [jugar](https://play.gcgames.workers.dev) |
+| 🥉 **[MiBalance](https://github.com/Haise232/MiBalance)** | React Native, TypeScript, Expo, Supabase | Finanzas personales para Android, iOS y web: gastos, deudas, suscripciones y reportes · [demo](https://mibalanceapp.vercel.app) |
+| [¿Quién es ese Pokémon?](https://github.com/Haise232/Pokemon) | HTML, CSS, JavaScript | Juego de adivinar el Pokémon por su silueta, con varios modos y cartas TCG coleccionables |
+| [Calculadora](https://github.com/Haise232/Calculadora-React) | React Native, Expo, TypeScript | Calculadora para móvil (iOS y Android) y web |
+
+#### ☕ APIs y backend
+
+| Proyecto | Tecnologías | Qué es |
+|----------|-------------|--------|
+| [Rally Islas Canarias 2026](https://github.com/Haise232/rally-canarias) | Java, Spring Boot, Spring Security, PostgreSQL, Docker | API REST del rally: etapas, tramos, pilotos y equipos, con escritura protegida por API key y despliegue en Docker |
+| [Gestor de Libros](https://github.com/Haise232/Act1.Ens-Apr-API-Spring-Boot) | Java, Spring Boot, MySQL | API REST por capas con CRUD de un catálogo de libros |
+
+#### 📱 Android y escritorio
+
+| Proyecto | Tecnologías | Qué es |
+|----------|-------------|--------|
+| [FaceSage](https://github.com/Haise232/FaceSage) | C#, .NET, OpenCV, ONNX Runtime | App de Windows que detecta tu cara y tus manos con la webcam y te pone accesorios y sonidos según el gesto |
+| [DAMFlix](https://github.com/Haise232/DAMFlix) | Kotlin, Jetpack Compose | Pantalla de perfil de un crítico de cine para Android |
+| [Gestor de Notas con Usuarios](https://github.com/Haise232/Act.Ev-UT5.2-Gestor-de-Notas-con-Usuarios) | Java, Swing | Notas personales por usuario, con contraseñas guardadas como hash SHA-256 |
+| [Sistema de Notas por Usuario](https://github.com/Haise232/Act.Ev-UT5.1-Sistema-de-Notas-por-Usuario) | Java, Swing | Registro, inicio de sesión y notas guardadas en ficheros |
+
+#### 🎓 Programación orientada a objetos (Java)
+
+| Proyecto | Qué practica | Qué es |
+|----------|--------------|--------|
+| [Sistema de Biblioteca](https://github.com/Haise232/Act1.Ev-UT4.-Sistema-de-Biblioteca-con-MVC) | Patrón MVC · en equipo | Gestión de libros, usuarios y préstamos |
+| [Personajes de Videojuego](https://github.com/Haise232/Act3.Ev-UT4.-Sistema-de-Personajes-de-Videojuego) | Herencia, polimorfismo e interfaces · en equipo | Personajes de videojuego de varios tipos, cada uno en su rama |
+| [Pedidos de Restaurante](https://github.com/Haise232/Act.-4-Pedido-de-Restaurante) | Encapsulación y modificadores de acceso | Gestión de los pedidos de un restaurante |
 
 ## 📊 Estadísticas de GitHub
 
