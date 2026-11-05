@@ -1,0 +1,31 @@
+# Regenera cada día las tarjetas de estadísticas del perfil (assets/estadisticas.svg y assets/lenguajes.svg) con
+# scripts/estadisticas.mjs, que solo lee datos públicos de la API de GitHub. Sustituye a github-readme-stats.vercel.app,
+# cuya instancia pública está pausada. Solo usa acciones oficiales de GitHub.
+name: Estadísticas del perfil
+
+on:
+  schedule:
+    - cron: '17 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency: estadisticas
+
+jobs:
+  tarjetas:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: node scripts/estadisticas.mjs "$GITHUB_REPOSITORY_OWNER"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Subir si cambian
+        run: |
+          git add assets/estadisticas.svg assets/lenguajes.svg
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Actualizar estadísticas del perfil"
+          git push

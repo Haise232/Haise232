@@ -159,9 +159,11 @@
 
 ## 📊 Estadísticas de GitHub
 
+<sub>Se actualizan solas cada día con una GitHub Action de este repo.</sub>
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Haise232&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haise232&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="assets/estadisticas.svg" alt="Estadísticas de GitHub de Haise232: commits, pull requests, repos y contribuciones del último año" />
+  <img height="180" src="assets/lenguajes.svg" alt="Lenguajes más usados en los repos públicos de Haise232" />
 </p>
 
 ## 📫 Contacto

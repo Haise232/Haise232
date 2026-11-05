@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="195" viewBox="0 0 450 195" role="img" aria-label="Estadísticas de GitHub de Haise232">
+  <rect width="450" height="195" rx="8" fill="#1a1b27"/>
+  <text x="25" y="35" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="18" font-weight="600" fill="#70a5fd">Estadísticas de Joaquín Suarez Ramírez</text>
+  <g transform="translate(25 62)">
+    <text x="0" y="0" font-size="13">📅</text>
+    <text x="24" y="0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" fill="#a9b1d6">En GitHub desde:</text>
+    <text x="300" y="0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#38bdae" text-anchor="end">2024</text>
+  </g>
+  <g transform="translate(25 84)">
+    <text x="0" y="0" font-size="13">📝</text>
+    <text x="24" y="0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" fill="#a9b1d6">Commits (último año):</text>
+    <text x="300" y="0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#38bdae" text-anchor="end">406</text>
+  </g>
+  <g transform="translate(25 106)">
+    <text x="0" y="0" font-size="13">🔀</text>
+    <text x="24" y="0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" fill="#a9b1d6">Pull requests (último año):</text>
+    <text x="300" y="0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#38bdae" text-anchor="end">3</text>
+  </g>
+  <g transform="translate(25 128)">
+    <text x="0" y="0" font-size="13">📦</text>
+    <text x="24" y="0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" fill="#a9b1d6">Repos públicos:</text>
+    <text x="300" y="0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#38bdae" text-anchor="end">15</text>
+  </g>
+  <g transform="translate(25 150)">
+    <text x="0" y="0" font-size="13">🔥</text>
+    <text x="24" y="0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" fill="#a9b1d6">Contribuciones (último año):</text>
+    <text x="300" y="0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#38bdae" text-anchor="end">467</text>
+  </g>
+  <g transform="translate(25 172)">
+    <text x="0" y="0" font-size="13">👥</text>
+    <text x="24" y="0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" fill="#a9b1d6">Seguidores:</text>
+    <text x="300" y="0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#38bdae" text-anchor="end">2</text>
+  </g>
+  <g transform="translate(375 105)">
+    <circle r="42" fill="none" stroke="#2b2d42" stroke-width="7"/>
+    <circle r="42" fill="none" stroke="#bf91f3" stroke-width="7" stroke-linecap="round" transform="rotate(-90)"
+      stroke-dasharray="263.9" stroke-dashoffset="49.6"/>
+    <text y="6" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="22" font-weight="800" fill="#70a5fd" text-anchor="middle">406</text>
+    <text y="24" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="10" fill="#a9b1d6" text-anchor="middle">commits</text>
+  </g>
+</svg>
