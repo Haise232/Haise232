@@ -51,7 +51,7 @@
       <h3><a href="https://github.com/Haise232/TopCode">TopCode</a> 👑</h3>
       <p>La intranet académica para estudiantes de <b>DAM, DAW y ASIR</b>: actividades, calendario, apuntes, documentación en Markdown, foro de dudas, recursos y chat en tiempo real. Web + app móvil, con acceso aprobado por administradores y permisos por clase.</p>
       <p>
-        <a href="https://topcode-chi.vercel.app"><img src="https://img.shields.io/badge/DEMO-topcode--chi.vercel.app-2d786b?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" /></a>
+        <a href="https://topcode-2na.pages.dev"><img src="https://img.shields.io/badge/DEMO-topcode--2na.pages.dev-2d786b?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Demo" /></a>
         <a href="https://github.com/Haise232/TopCode"><img src="https://img.shields.io/badge/C%C3%93DIGO-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código" /></a>
       </p>
       <p>
@@ -60,7 +60,7 @@
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
         <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+        <img src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Pages" />
       </p>
     </td>
   </tr>
@@ -93,10 +93,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/Haise232/GcGames"><img src="https://raw.githubusercontent.com/Haise232/GcGames/main/docs/capturas/portada.webp" alt="Portada de GcGames: atardecer en las islas con el pase de temporada y las misiones del día" width="90%" /></a>
-</p>
-
 ### 🥉 Tercer proyecto: MiBalance
 
 <table>
@@ -128,7 +124,7 @@
 
 | Proyecto | Tecnologías | Descripción |
 |----------|-------------|-------------|
-| 👑 **[TopCode](https://github.com/Haise232/TopCode)** | React, TypeScript, Expo, Supabase | **Intranet académica web + app móvil** · [demo](https://topcode-chi.vercel.app) |
+| 👑 **[TopCode](https://github.com/Haise232/TopCode)** | React, TypeScript, Expo, Supabase | **Intranet académica web + app móvil** · [demo](https://topcode-2na.pages.dev) |
 | 🥈 **[GcGames](https://github.com/Haise232/GcGames)** | React, Vite, Cloudflare Workers, Supabase | **Casino online con mesas en vivo, rondas comunes y juegos en solitario** · [jugar](https://play.gcgames.workers.dev) |
 | 🥉 **[MiBalance](https://github.com/Haise232/MiBalance)** | React Native, TypeScript, Expo, Supabase | **Finanzas personales Android, iOS y web** · [demo](https://mibalanceapp.vercel.app) |
 | [Calculadora-React](https://github.com/Haise232/Calculadora-React) | React, TypeScript | Calculadora web |
