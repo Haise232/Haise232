@@ -4,52 +4,22 @@
 
 <a href="https://haise232.github.io/Portafolio/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_PORTAFOLIO-haise232.github.io%2FPortafolio-6ee7b7?style=for-the-badge&logo=githubpages&logoColor=0a0f14" alt="Portafolio" /></a> <a href="https://www.linkedin.com/in/joaqu%C3%ADn-su%C3%A1rez-ram%C3%ADrez-145435356/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:joaquinjose1298@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
-**[🌐 Portafolio](#-mi-portafolio)** · **[🚀 Sobre mí](#-sobre-mí)** · **[📂 Proyectos](#-proyectos-destacados)** · **[📫 Contacto](#-contacto)**
+**[🚀 Sobre mí](#-sobre-mí)** · **[📂 Proyectos](#-proyectos-destacados)** · **[📫 Contacto](#-contacto)**
 
 </div>
 
 ---
 
-## 🌐 Mi portafolio
-
-<a href="https://haise232.github.io/Portafolio/">
-  <img src="assets/portafolio.jpg" alt="Portada de mi portafolio: presentación, foto y una red 3D de fondo" width="100%" />
-</a>
-
-Un portafolio hecho con **HTML, CSS y JavaScript** (sin frameworks) que **se construye en vivo mientras haces scroll**: cursores que escriben el texto letra a letra, fotos que se redimensionan como en un editor visual y una **esfera 3D con three.js** de las tecnologías que uso, que se puede arrastrar y filtrar.
-
-- 🧊 Escena 3D interactiva y constelación tecnológica
-- 🎓 Lo que he aprendido en **2º de DAM**, con los proyectos donde lo apliqué
-- 🤖 Cómo trabajo con **Claude Code**, subagentes y skills
-- 📦 [Código fuente](https://github.com/Haise232/Portafolio) · Publicado con GitHub Pages
-
-<p align="center">
-  <a href="https://haise232.github.io/Portafolio/"><img src="https://img.shields.io/badge/ABRIR_PORTAFOLIO-6ee7b7?style=for-the-badge&logo=githubpages&logoColor=0a0f14" alt="Abrir portafolio" /></a>
-</p>
-
----
-
 ## 🚀 Sobre mí
 
-<table align="center">
-  <tr>
-    <td width="220" align="center">
-      <img src="assets/MonteFuji.jpg" alt="Monte Fuji" width="220" />
-    </td>
-    <td>
-      <p>👋 Soy <b>Joaquín</b>, de Ingenio (Las Palmas de Gran Canaria).</p>
-      <ul>
-        <li>🎓 Cursando <b>2º del Grado Superior en DAM</b> (CIFP Villa de Agüimes)</li>
-        <li>💼 Prácticas en el <b>Ayuntamiento de Agüimes</b>: intranet, redes y soporte</li>
-        <li>⚛️ <b>React + TypeScript</b> y apps con <b>Expo / React Native</b></li>
-        <li>📱 <b>Kotlin y Jetpack Compose</b> para Android nativo</li>
-        <li>☕ <b>Java y Spring Boot</b> para APIs · 🖥️ <b>C#</b> para escritorio</li>
-        <li>🤖 Trabajo con <b>Claude Code</b> y agentes para ir más rápido sin perder el control del código</li>
-      </ul>
-      <p><i>Una gran lección: <b>si funciona, mejor no tocarlo</b> 😅🙏</i></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <b>¿Quieres saber más sobre mí?</b><br />
+  Aquí está mi portafolio 👇
+</p>
+
+<p align="center">
+  <a href="https://haise232.github.io/Portafolio/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_VER_PORTAFOLIO-haise232.github.io%2FPortafolio-6ee7b7?style=for-the-badge&logo=githubpages&logoColor=0a0f14" alt="Ver portafolio" /></a>
+</p>
 
 ---
 
