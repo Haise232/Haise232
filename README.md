@@ -1,45 +1,132 @@
+<div align="center">
+
+<img src="assets/banner.svg" alt="Joaquín Suárez Ramírez — desarrollador de aplicaciones multiplataforma" width="100%" />
+
+<a href="https://haise232.github.io/Portafolio/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_PORTAFOLIO-haise232.github.io%2FPortafolio-6ee7b7?style=for-the-badge&logo=githubpages&logoColor=0a0f14" alt="Portafolio" /></a> <a href="https://www.linkedin.com/in/joaqu%C3%ADn-su%C3%A1rez-ram%C3%ADrez-145435356/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:joaquinjose1298@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+
+**[🌐 Portafolio](#-mi-portafolio)** · **[🚀 Sobre mí](#-sobre-mí)** · **[📂 Proyectos](#-proyectos-destacados)** · **[📫 Contacto](#-contacto)**
+
+</div>
+
+---
+
+## 🌐 Mi portafolio
+
+<a href="https://haise232.github.io/Portafolio/">
+  <img src="assets/portafolio.jpg" alt="Portada de mi portafolio: presentación, foto y una red 3D de fondo" width="100%" />
+</a>
+
+Un portafolio hecho con **HTML, CSS y JavaScript** (sin frameworks) que **se construye en vivo mientras haces scroll**: cursores que escriben el texto letra a letra, fotos que se redimensionan como en un editor visual y una **esfera 3D con three.js** de las tecnologías que uso, que se puede arrastrar y filtrar.
+
+- 🧊 Escena 3D interactiva y constelación tecnológica
+- 🎓 Lo que he aprendido en **2º de DAM**, con los proyectos donde lo apliqué
+- 🤖 Cómo trabajo con **Claude Code**, subagentes y skills
+- 📦 [Código fuente](https://github.com/Haise232/Portafolio) · Publicado con GitHub Pages
+
+<p align="center">
+  <a href="https://haise232.github.io/Portafolio/"><img src="https://img.shields.io/badge/ABRIR_PORTAFOLIO-6ee7b7?style=for-the-badge&logo=githubpages&logoColor=0a0f14" alt="Abrir portafolio" /></a>
+</p>
+
+---
+
+## 🚀 Sobre mí
+
 <table align="center">
   <tr>
-    <td>
+    <td width="220" align="center">
       <img src="assets/MonteFuji.jpg" alt="Monte Fuji" width="220" />
     </td>
     <td>
-      <h1>¡Hola! Soy Joaquín Suárez Ramírez 👋</h1>
-      <p>En el tiempo que llevo programando, he aprendido una gran lección:</p>
-      <p><b>si funciona, mejor no tocarlo 😅🙏</b></p>
+      <p>👋 Soy <b>Joaquín</b>, de Ingenio (Las Palmas de Gran Canaria).</p>
+      <ul>
+        <li>🎓 Cursando <b>2º del Grado Superior en DAM</b> (CIFP Villa de Agüimes)</li>
+        <li>💼 Prácticas en el <b>Ayuntamiento de Agüimes</b>: intranet, redes y soporte</li>
+        <li>⚛️ <b>React + TypeScript</b> y apps con <b>Expo / React Native</b></li>
+        <li>📱 <b>Kotlin y Jetpack Compose</b> para Android nativo</li>
+        <li>☕ <b>Java y Spring Boot</b> para APIs · 🖥️ <b>C#</b> para escritorio</li>
+        <li>🤖 Trabajo con <b>Claude Code</b> y agentes para ir más rápido sin perder el control del código</li>
+      </ul>
+      <p><i>Una gran lección: <b>si funciona, mejor no tocarlo</b> 😅🙏</i></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Sobre mí
-
-- ☕ Practicando **Java** (POO, patrón MVC) y **APIs con Spring Boot**
-- ⚛️ Explorando **React + TypeScript** y desarrollo web
-- 📱 Con base en **Kotlin y Android**
-- 🌱 Siempre aprendiendo y construyendo proyectos nuevos
-
 ## 🛠️ Tecnologías
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<table>
+  <tr>
+    <td><b>🎨 Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+      <img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="three.js" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>📱 Móvil</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+      <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+      <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black" alt="Android" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🖥️ Escritorio</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Datos y Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🧰 Herramientas e IA</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black" alt="Android Studio" />
+      <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+    </td>
+  </tr>
+</table>
 
-## 📂 Proyectos
+---
 
-### 👑 Proyecto estrella: TopCode
+## 📂 Proyectos destacados
+
+### 👑 TopCode
 
 <table>
   <tr>
@@ -67,7 +154,7 @@
   </tr>
 </table>
 
-### 🥈 Segundo proyecto: GcGames
+### 🥈 GcGames
 
 <table>
   <tr>
@@ -94,7 +181,7 @@
   </tr>
 </table>
 
-### 🥉 Tercer proyecto: MiBalance
+### 🥉 MiBalance
 
 <table>
   <tr>
@@ -121,7 +208,8 @@
   </tr>
 </table>
 
-### 🗂️ Todos los proyectos
+<details>
+<summary><b>🗂️ Ver todos los proyectos</b></summary>
 
 #### 🌐 Web y apps multiplataforma
 
@@ -157,6 +245,10 @@
 | [Personajes de Videojuego](https://github.com/Haise232/Act3.Ev-UT4.-Sistema-de-Personajes-de-Videojuego) | Herencia, polimorfismo e interfaces · en equipo | Personajes de videojuego de varios tipos, cada uno en su rama |
 | [Pedidos de Restaurante](https://github.com/Haise232/Act.-4-Pedido-de-Restaurante) | Encapsulación y modificadores de acceso | Gestión de los pedidos de un restaurante |
 
+</details>
+
+---
+
 ## 📊 Estadísticas de GitHub
 
 <sub>Se actualizan solas cada día con una GitHub Action de este repo.</sub>
@@ -166,7 +258,12 @@
   <img height="180" src="assets/lenguajes.svg" alt="Lenguajes más usados en los repos públicos de Haise232" />
 </p>
 
+---
+
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaqu%C3%ADn-su%C3%A1rez-ram%C3%ADrez-145435356/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaquinjose1298@gmail.com)
+<p>
+  <a href="https://haise232.github.io/Portafolio/"><img src="https://img.shields.io/badge/Portafolio-6ee7b7?style=for-the-badge&logo=githubpages&logoColor=0a0f14" alt="Portafolio" /></a>
+  <a href="https://www.linkedin.com/in/joaqu%C3%ADn-su%C3%A1rez-ram%C3%ADrez-145435356/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:joaquinjose1298@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>

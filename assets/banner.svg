@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Joaquín Suárez Ramírez, desarrollador multiplataforma">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080c10"/>
+      <stop offset="1" stop-color="#0d1a17"/>
+    </linearGradient>
+    <linearGradient id="mint" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ecf2f8"/>
+      <stop offset="1" stop-color="#6ee7b7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.1" r="0.7">
+      <stop offset="0" stop-color="#6ee7b7" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#6ee7b7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#6ee7b7" fill-opacity="0.16"/>
+    </pattern>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; }
+      .sans { font-family: Inter, 'Segoe UI', system-ui, sans-serif; }
+      .node { fill: #6ee7b7; animation: pulse 3.2s ease-in-out infinite; }
+      .n2 { animation-delay: -1s; } .n3 { animation-delay: -2s; }
+      @keyframes pulse { 50% { opacity: .25; transform: scale(.6); } }
+      .node { transform-box: fill-box; transform-origin: center; }
+      .link { stroke: #6ee7b7; stroke-opacity: .22; stroke-dasharray: 4 6; animation: dash 2.5s linear infinite; }
+      @keyframes dash { to { stroke-dashoffset: -20; } }
+      .phrase { opacity: 0; animation: cycle 12s infinite; }
+      .p2 { animation-delay: 4s; } .p3 { animation-delay: 8s; }
+      @keyframes cycle {
+        0%   { opacity: 0; clip-path: inset(0 100% 0 0); }
+        2%   { opacity: 1; clip-path: inset(0 100% 0 0); }
+        18%  { opacity: 1; clip-path: inset(0 0 0 0); }
+        30%  { opacity: 1; clip-path: inset(0 0 0 0); }
+        33%  { opacity: 0; clip-path: inset(0 0 0 0); }
+        100% { opacity: 0; }
+      }
+      .caret { fill: #6ee7b7; animation: blink 1s step-end infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="280" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="18" fill="url(#dots)"/>
+  <rect width="1200" height="280" rx="18" fill="url(#glow)"/>
+
+  <!-- red de nodos decorativa -->
+  <g>
+    <line class="link" x1="930" y1="70" x2="1030" y2="130"/>
+    <line class="link" x1="1030" y1="130" x2="1110" y2="80"/>
+    <line class="link" x1="1030" y1="130" x2="990" y2="215"/>
+    <line class="link" x1="990" y1="215" x2="1100" y2="205"/>
+    <circle class="node" cx="930" cy="70" r="5"/>
+    <circle class="node n2" cx="1030" cy="130" r="7"/>
+    <circle class="node n3" cx="1110" cy="80" r="5"/>
+    <circle class="node" cx="990" cy="215" r="5"/>
+    <circle class="node n2" cx="1100" cy="205" r="6"/>
+  </g>
+
+  <text class="mono" x="70" y="78" font-size="17" fill="#6ee7b7" letter-spacing="3">&lt;HOLA, SOY /&gt;</text>
+  <text class="sans" x="68" y="150" font-size="60" font-weight="800" fill="url(#mint)" letter-spacing="-2">Joaquín Suárez Ramírez</text>
+
+  <g class="mono" font-size="24" fill="#7d8fa3">
+    <g class="phrase"><text x="70" y="206">Desarrollador de aplicaciones multiplataforma</text></g>
+    <g class="phrase p2"><text x="70" y="206">React · Kotlin · Spring Boot · C#</text></g>
+    <g class="phrase p3"><text x="70" y="206">2º de DAM · Las Palmas de Gran Canaria</text></g>
+  </g>
+  <rect class="caret" x="70" y="226" width="14" height="4" rx="2"/>
+</svg>
