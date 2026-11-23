@@ -151,28 +151,29 @@
   </tr>
 </table>
 
-### 🥉 MiBalance
+### 🥉 Aetherfall
 
 <table>
   <tr>
     <td width="120" align="center">
-      <a href="https://github.com/Haise232/MiBalance">
-        <img src="assets/mibalance-logo.png" alt="MiBalance" width="96" />
+      <a href="https://github.com/Haise232/aetherfall-mmo">
+        <img src="https://raw.githubusercontent.com/Haise232/aetherfall-mmo/main/apps/client/public/favicon.svg" alt="Aetherfall" width="96" />
       </a>
     </td>
     <td>
-      <h3><a href="https://github.com/Haise232/MiBalance">MiBalance</a> 💰</h3>
-      <p>App de <b>finanzas personales</b> multiplataforma (Android, iOS y web): ingresos, gastos, cuentas, categorías, deudas, suscripciones y reportes con gráficos. Tema claro/oscuro, recordatorios diarios, copias de seguridad en CSV/JSON y datos por usuario con Supabase.</p>
+      <h3><a href="https://github.com/Haise232/aetherfall-mmo">Aetherfall</a> ⚔️</h3>
+      <p>Un <b>MMORPG medieval</b> que se juega en el navegador, sin instalar nada: la ciudad amurallada de <b>Valdoria</b> con castillo, catedral y barrios llenos de vida, lobos y un jefe dragón fuera de la muralla, clases con habilidades, oficios y recolección, monturas, casa de subastas entre jugadores y panel de administración. El servidor manda en todo vía WebSocket.</p>
       <p>
-        <a href="https://mibalanceapp.vercel.app"><img src="https://img.shields.io/badge/DEMO-mibalanceapp.vercel.app-1f8a5c?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" /></a>
-        <a href="https://github.com/Haise232/MiBalance"><img src="https://img.shields.io/badge/C%C3%93DIGO-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código" /></a>
+        <a href="https://github.com/Haise232/aetherfall-mmo#-jugar"><img src="https://img.shields.io/badge/BETA-POR%20INVITACI%C3%93N-9b2f3d?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Beta por invitación" /></a>
+        <a href="https://github.com/Haise232/aetherfall-mmo"><img src="https://img.shields.io/badge/C%C3%93DIGO-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código" /></a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       </p>
     </td>
   </tr>
@@ -187,7 +188,8 @@
 |----------|-------------|--------|
 | 👑 **[TopCode](https://github.com/Haise232/TopCode)** | React, TypeScript, Expo, Supabase | Intranet académica para DAM, DAW y ASIR: actividades, calendario, apuntes, foro y chat en tiempo real. Web + app móvil · [demo](https://topcode-2na.pages.dev) |
 | 🥈 **[GcGames](https://github.com/Haise232/GcGames)** | React, Vite, Cloudflare Workers, Supabase | Casino online con dinero ficticio: mesas en vivo, rondas para todos a la vez, juegos en solitario, gacha y pase de temporada · [jugar](https://play.gcgames.workers.dev) |
-| 🥉 **[MiBalance](https://github.com/Haise232/MiBalance)** | React Native, TypeScript, Expo, Supabase | Finanzas personales para Android, iOS y web: gastos, deudas, suscripciones y reportes · [demo](https://mibalanceapp.vercel.app) |
+| 🥉 **[Aetherfall](https://github.com/Haise232/aetherfall-mmo)** | TypeScript, Three.js, Node.js, WebSocket, SQLite | MMORPG medieval en el navegador: ciudad de Valdoria, clases, oficios, monturas, subastas y jefe dragón · beta por invitación |
+| **[MiBalance](https://github.com/Haise232/MiBalance)** | React Native, TypeScript, Expo, Supabase | Finanzas personales para Android, iOS y web: gastos, deudas, suscripciones y reportes · [demo](https://mibalanceapp.vercel.app) |
 | [¿Quién es ese Pokémon?](https://github.com/Haise232/Pokemon) | HTML, CSS, JavaScript | Juego de adivinar el Pokémon por su silueta, con varios modos y cartas TCG coleccionables |
 | [Calculadora](https://github.com/Haise232/Calculadora-React) | React Native, Expo, TypeScript | Calculadora para móvil (iOS y Android) y web |
 
